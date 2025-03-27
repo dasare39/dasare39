@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dasare39
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on any project regarding python to help bost my skills
+- 💞️ I’m looking to collaborate on any project to exhibit my skills.
 - 📫 How to reach me asare.dominic39@gmail.com
 - 😄 Pronouns: ....
 - ⚡ Fun fact: computer games
