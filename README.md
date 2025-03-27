@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on any project regarding python to help bost my skills
 - 📫 How to reach me asare.dominic39@gmail.com
-- 😄 Pronouns: He 
+- 😄 Pronouns: ....
 - ⚡ Fun fact: computer games
 
 <!---
